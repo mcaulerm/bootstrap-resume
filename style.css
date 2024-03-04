@@ -1,0 +1,64 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+h1 {
+   	font-family: 'Copperplate', fantasy;
+   	font-size: 3.5em;
+   	letter-spacing: 0.30em;
+   	text-align: center;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+  text-decoration-thickness: 2px;
+  color: white;
+
+   }
+h2 {
+   	font-family:'Copperplate', fantasy;
+   	font-size: 2.25em;
+   	letter-spacing: 0.20em
+ }
+
+   	h3 {
+   	font-family:'Copperplate', fantasy;
+   	font-size: 1.75em;
+   	letter-spacing: 0.16em;
+   text-decoration-line: underline;
+  text-align: center;
+
+   }
+
+  .header {
+background-color:#C71585 ;
+} 
+
+
+a:link {
+  color: #F8F8FF;
+}
+
+a:visited {
+  color: #FF1493;
+}
+
+ a:hover {
+  text-decoration: underline;
+  color: #BA55D3;
+}
+
+.leftcol {
+  background-color: gray;
+}
+.rightcol {
+  background-color: beige;
+}
+
+img {
+  border:8px solid hotpink;
+}
+
+ul {
+list-style-image: url(star2.png);
+}
+
+
+
+
+ 
